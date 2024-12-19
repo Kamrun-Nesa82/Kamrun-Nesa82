@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kamrun-Nesa82
-- 👀 I’m interested in Web Development
-- 🌱 
+- 👀 I’m interested in Web Development 
 - 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me nesakamrun490@gmail.com
 - 😄 Pronouns: She/her
